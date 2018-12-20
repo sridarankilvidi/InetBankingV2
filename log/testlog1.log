@@ -1,0 +1,351 @@
+2018-12-16 20:07:27,662 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 20:07:27,681 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is successful===
+2018-12-16 20:07:27,691 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-16 20:15:14,019 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 20:15:14,046 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-16 20:17:52,311 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 20:17:52,321 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is not successful===
+2018-12-16 20:17:52,453 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-16 20:46:54,428 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 20:46:54,437 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is successful===
+2018-12-16 20:46:54,452 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-16 20:47:25,648 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 20:47:25,712 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is not successful===
+2018-12-16 20:47:25,728 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-16 20:58:50,007 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 20:58:50,072 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is not successful===
+2018-12-16 20:58:50,090 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-16 21:06:53,923 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-16 21:06:53,992 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is not successful===
+2018-12-16 21:06:54,002 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-17 19:28:00,538 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:28:00,566 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:28:04,846 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:28:04,896 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:28:08,566 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:28:08,642 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:28:12,218 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:28:12,338 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:28:16,147 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:28:16,227 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:30:53,152 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:30:53,180 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:30:57,814 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:30:57,864 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:31:01,568 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:31:01,675 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:31:05,299 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:31:05,407 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:31:09,029 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:31:09,124 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:34:23,472 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:34:23,501 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:34:28,178 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:34:28,315 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:34:32,055 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login passed
+2018-12-17 19:34:35,827 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:34:35,925 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:34:39,609 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:34:39,708 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-17 19:34:43,497 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Login passed
+2018-12-17 19:34:47,928 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-17 19:34:48,043 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 13:59:40,112 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 13:59:40,192 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 13:59:44,412 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 13:59:53,413 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 13:59:53,421 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case failed....
+2018-12-18 14:02:42,210 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 14:02:42,286 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 14:02:46,461 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 14:02:55,305 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 14:02:55,313 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case failed....
+2018-12-18 14:13:00,236 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 14:13:00,314 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 14:13:04,574 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 14:13:13,458 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 14:36:18,030 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 14:36:18,111 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 14:36:22,336 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 14:36:31,195 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 14:36:31,203 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case failed....
+2018-12-18 14:39:40,997 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 14:39:41,075 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 14:39:45,259 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 14:39:54,106 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 14:39:54,115 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case failed....
+2018-12-18 14:57:30,664 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 14:57:30,738 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 14:57:35,008 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:01:31,127 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:01:31,206 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:01:35,414 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:01:50,248 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 15:01:50,256 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case failed....
+2018-12-18 15:08:07,042 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:08:07,115 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:08:11,359 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:08:26,243 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 15:08:26,258 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case failed....
+2018-12-18 15:09:54,251 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:09:54,326 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:09:58,758 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:13:54,268 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:13:54,337 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:13:59,372 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:14:12,291 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 15:16:21,872 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:16:21,945 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:16:26,097 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:19:18,592 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:19:18,658 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:19:23,200 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:19:36,647 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 15:19:36,679 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case passed....
+2018-12-18 15:20:55,366 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-18 15:20:55,733 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is not successful===
+2018-12-18 15:20:55,747 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-18 15:21:02,077 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 15:21:02,140 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 15:21:11,524 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 15:21:11,592 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 15:21:16,413 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 15:21:30,115 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 15:21:30,140 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case passed....
+2018-12-18 19:43:06,906 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-18 19:43:07,229 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is not successful===
+2018-12-18 19:43:07,243 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-18 19:43:13,510 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 19:43:13,571 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 19:43:22,313 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 19:43:22,376 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 19:43:27,952 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 19:43:41,854 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 19:43:41,874 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case passed....
+2018-12-18 19:55:29,517 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login btn clicked===
+2018-12-18 19:55:29,530 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===login is successful===
+2018-12-18 19:55:29,546 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - ===exiting the application===
+2018-12-18 19:55:35,878 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 19:55:35,954 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 19:56:27,050 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - User name is provided
+2018-12-18 19:56:27,217 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - Passsword is provided
+2018-12-18 19:56:31,655 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - providing customer details....
+2018-12-18 19:56:46,575 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - validation started....
+2018-12-18 19:56:47,455 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - addNewCustomer() test case passed....
+2018-12-18 20:19:33,661 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:19:33,866 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:22:40,666 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:22:40,731 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:28:13,230 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:28:13,295 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:29:55,177 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:29:55,246 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:30:58,872 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:30:58,940 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:31:46,485 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:31:46,548 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:34:41,907 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - user name provided
+2018-12-18 20:34:41,974 [main] INFO com.inetbanking.testCases.TC_LoginTest_001 - password provided
+2018-12-18 20:41:11,786 [main] INFO ebanking - user name provided
+2018-12-18 20:41:11,846 [main] INFO ebanking - password provided
+2018-12-18 20:55:09,870 [main] INFO ebanking - user name provided
+2018-12-18 20:55:09,943 [main] INFO ebanking - password provided
+2018-12-18 21:07:20,338 [main] INFO ebanking - user name provided
+2018-12-18 21:07:20,416 [main] INFO ebanking - password provided
+2018-12-19 11:39:40,942 [main] INFO ebanking - user name provided
+2018-12-19 11:39:41,031 [main] INFO ebanking - password provided
+2018-12-19 11:43:02,560 [main] INFO ebanking - user name provided
+2018-12-19 11:43:02,621 [main] INFO ebanking - password provided
+2018-12-19 11:45:30,314 [main] INFO ebanking - user name provided
+2018-12-19 11:45:30,377 [main] INFO ebanking - password provided
+2018-12-19 11:48:07,926 [main] INFO ebanking - user name provided
+2018-12-19 11:48:07,984 [main] INFO ebanking - password provided
+2018-12-19 11:50:34,923 [main] INFO ebanking - user name provided
+2018-12-19 11:50:34,989 [main] INFO ebanking - password provided
+2018-12-19 11:52:31,816 [main] INFO ebanking - user name provided
+2018-12-19 11:52:31,880 [main] INFO ebanking - password provided
+2018-12-19 11:56:44,483 [main] INFO ebanking - user name provided
+2018-12-19 11:56:44,544 [main] INFO ebanking - password provided
+2018-12-19 11:56:47,689 [main] WARN ebanking - Login failed
+2018-12-19 11:56:48,290 [main] INFO ebanking - user name provided
+2018-12-19 11:56:48,343 [main] INFO ebanking - password provided
+2018-12-19 11:56:51,854 [main] INFO ebanking - Login passed
+2018-12-19 11:56:55,792 [main] INFO ebanking - user name provided
+2018-12-19 11:56:55,842 [main] INFO ebanking - password provided
+2018-12-19 11:56:58,992 [main] WARN ebanking - Login failed
+2018-12-19 11:56:59,596 [main] INFO ebanking - user name provided
+2018-12-19 11:56:59,646 [main] INFO ebanking - password provided
+2018-12-19 11:57:03,142 [main] INFO ebanking - Login passed
+2018-12-19 11:57:07,069 [main] INFO ebanking - user name provided
+2018-12-19 11:57:07,117 [main] INFO ebanking - password provided
+2018-12-19 11:57:10,248 [main] WARN ebanking - Login failed
+2018-12-19 11:59:15,259 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 11:59:15,272 [main] INFO ebanking - ===login is successful===
+2018-12-19 11:59:15,285 [main] INFO ebanking - ===exiting the application===
+2018-12-19 11:59:21,759 [main] INFO ebanking - user name provided
+2018-12-19 11:59:21,818 [main] INFO ebanking - password provided
+2018-12-19 11:59:24,971 [main] WARN ebanking - Login failed
+2018-12-19 11:59:25,603 [main] INFO ebanking - user name provided
+2018-12-19 11:59:25,655 [main] INFO ebanking - password provided
+2018-12-19 11:59:29,293 [main] INFO ebanking - Login passed
+2018-12-19 11:59:33,153 [main] INFO ebanking - user name provided
+2018-12-19 11:59:33,202 [main] INFO ebanking - password provided
+2018-12-19 11:59:36,329 [main] WARN ebanking - Login failed
+2018-12-19 11:59:36,979 [main] INFO ebanking - user name provided
+2018-12-19 11:59:37,032 [main] INFO ebanking - password provided
+2018-12-19 11:59:40,506 [main] INFO ebanking - Login passed
+2018-12-19 11:59:44,415 [main] INFO ebanking - user name provided
+2018-12-19 11:59:44,465 [main] INFO ebanking - password provided
+2018-12-19 11:59:47,615 [main] WARN ebanking - Login failed
+2018-12-19 11:59:53,691 [main] INFO ebanking - User name is provided
+2018-12-19 11:59:53,754 [main] INFO ebanking - Passsword is provided
+2018-12-19 11:59:58,353 [main] INFO ebanking - providing customer details....
+2018-12-19 12:00:11,845 [main] INFO ebanking - validation started....
+2018-12-19 12:00:11,865 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 12:41:01,958 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 12:41:01,975 [main] INFO ebanking - ===login is successful===
+2018-12-19 12:41:01,988 [main] INFO ebanking - ===exiting the application===
+2018-12-19 12:41:08,808 [main] INFO ebanking - user name provided
+2018-12-19 12:41:08,878 [main] INFO ebanking - password provided
+2018-12-19 12:41:12,022 [main] WARN ebanking - Login failed
+2018-12-19 12:41:12,595 [main] INFO ebanking - user name provided
+2018-12-19 12:41:12,647 [main] INFO ebanking - password provided
+2018-12-19 12:41:16,202 [main] INFO ebanking - Login passed
+2018-12-19 12:41:20,382 [main] INFO ebanking - user name provided
+2018-12-19 12:41:20,438 [main] INFO ebanking - password provided
+2018-12-19 12:41:23,604 [main] WARN ebanking - Login failed
+2018-12-19 12:41:24,205 [main] INFO ebanking - user name provided
+2018-12-19 12:41:24,256 [main] INFO ebanking - password provided
+2018-12-19 12:41:27,807 [main] INFO ebanking - Login passed
+2018-12-19 12:41:31,666 [main] INFO ebanking - user name provided
+2018-12-19 12:41:31,716 [main] INFO ebanking - password provided
+2018-12-19 12:41:34,832 [main] WARN ebanking - Login failed
+2018-12-19 12:41:40,948 [main] INFO ebanking - User name is provided
+2018-12-19 12:41:41,016 [main] INFO ebanking - Passsword is provided
+2018-12-19 12:41:45,480 [main] INFO ebanking - providing customer details....
+2018-12-19 12:41:58,550 [main] INFO ebanking - validation started....
+2018-12-19 12:53:02,131 [main] INFO ebanking - User name is provided
+2018-12-19 12:53:02,195 [main] INFO ebanking - Passsword is provided
+2018-12-19 12:53:06,525 [main] INFO ebanking - providing customer details....
+2018-12-19 12:53:19,927 [main] INFO ebanking - validation started....
+2018-12-19 12:53:19,951 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 12:53:44,398 [main] INFO ebanking - User name is provided
+2018-12-19 12:53:44,465 [main] INFO ebanking - Passsword is provided
+2018-12-19 12:53:48,584 [main] INFO ebanking - providing customer details....
+2018-12-19 12:54:02,110 [main] INFO ebanking - validation started....
+2018-12-19 12:54:02,120 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 12:57:52,590 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 12:57:52,605 [main] INFO ebanking - ===login is successful===
+2018-12-19 12:57:52,618 [main] INFO ebanking - ===exiting the application===
+2018-12-19 12:57:58,965 [main] INFO ebanking - user name provided
+2018-12-19 12:57:59,034 [main] INFO ebanking - password provided
+2018-12-19 12:58:02,199 [main] WARN ebanking - Login failed
+2018-12-19 12:58:03,029 [main] INFO ebanking - user name provided
+2018-12-19 12:58:03,086 [main] INFO ebanking - password provided
+2018-12-19 12:58:06,749 [main] INFO ebanking - Login passed
+2018-12-19 12:58:10,623 [main] INFO ebanking - user name provided
+2018-12-19 12:58:10,671 [main] INFO ebanking - password provided
+2018-12-19 12:58:13,803 [main] WARN ebanking - Login failed
+2018-12-19 12:58:14,290 [main] INFO ebanking - user name provided
+2018-12-19 12:58:14,340 [main] INFO ebanking - password provided
+2018-12-19 12:58:17,785 [main] INFO ebanking - Login passed
+2018-12-19 12:58:21,685 [main] INFO ebanking - user name provided
+2018-12-19 12:58:21,736 [main] INFO ebanking - password provided
+2018-12-19 12:58:24,851 [main] WARN ebanking - Login failed
+2018-12-19 12:58:31,856 [main] INFO ebanking - User name is provided
+2018-12-19 12:58:31,921 [main] INFO ebanking - Passsword is provided
+2018-12-19 12:58:36,093 [main] INFO ebanking - providing customer details....
+2018-12-19 12:58:49,585 [main] INFO ebanking - validation started....
+2018-12-19 12:58:49,608 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 14:05:56,419 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 14:05:56,439 [main] INFO ebanking - ===login is successful===
+2018-12-19 14:05:56,452 [main] INFO ebanking - ===exiting the application===
+2018-12-19 14:06:02,283 [main] INFO ebanking - user name provided
+2018-12-19 14:06:02,346 [main] INFO ebanking - password provided
+2018-12-19 14:06:05,477 [main] WARN ebanking - Login failed
+2018-12-19 14:06:06,053 [main] INFO ebanking - user name provided
+2018-12-19 14:06:06,111 [main] INFO ebanking - password provided
+2018-12-19 14:06:09,654 [main] INFO ebanking - Login passed
+2018-12-19 14:06:13,517 [main] INFO ebanking - user name provided
+2018-12-19 14:06:13,568 [main] INFO ebanking - password provided
+2018-12-19 14:06:16,705 [main] WARN ebanking - Login failed
+2018-12-19 14:06:17,272 [main] INFO ebanking - user name provided
+2018-12-19 14:06:17,321 [main] INFO ebanking - password provided
+2018-12-19 14:06:20,850 [main] INFO ebanking - Login passed
+2018-12-19 14:06:24,773 [main] INFO ebanking - user name provided
+2018-12-19 14:06:24,828 [main] INFO ebanking - password provided
+2018-12-19 14:06:27,960 [main] WARN ebanking - Login failed
+2018-12-19 14:06:34,005 [main] INFO ebanking - User name is provided
+2018-12-19 14:06:34,067 [main] INFO ebanking - Passsword is provided
+2018-12-19 14:06:38,486 [main] INFO ebanking - providing customer details....
+2018-12-19 14:06:52,002 [main] INFO ebanking - validation started....
+2018-12-19 14:06:52,016 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 14:23:39,083 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 14:23:39,095 [main] INFO ebanking - ===login is successful===
+2018-12-19 14:23:39,107 [main] INFO ebanking - ===exiting the application===
+2018-12-19 14:23:45,138 [main] INFO ebanking - user name provided
+2018-12-19 14:23:45,199 [main] INFO ebanking - password provided
+2018-12-19 14:23:48,343 [main] WARN ebanking - Login failed
+2018-12-19 14:23:48,946 [main] INFO ebanking - user name provided
+2018-12-19 14:23:48,997 [main] INFO ebanking - password provided
+2018-12-19 14:23:52,524 [main] INFO ebanking - Login passed
+2018-12-19 14:23:56,359 [main] INFO ebanking - user name provided
+2018-12-19 14:23:56,415 [main] INFO ebanking - password provided
+2018-12-19 14:23:59,540 [main] WARN ebanking - Login failed
+2018-12-19 14:24:00,023 [main] INFO ebanking - user name provided
+2018-12-19 14:24:00,077 [main] INFO ebanking - password provided
+2018-12-19 14:24:03,552 [main] INFO ebanking - Login passed
+2018-12-19 14:24:07,397 [main] INFO ebanking - user name provided
+2018-12-19 14:24:07,455 [main] INFO ebanking - password provided
+2018-12-19 14:24:10,574 [main] WARN ebanking - Login failed
+2018-12-19 14:24:16,048 [main] INFO ebanking - User name is provided
+2018-12-19 14:24:16,112 [main] INFO ebanking - Passsword is provided
+2018-12-19 14:24:20,187 [main] INFO ebanking - providing customer details....
+2018-12-19 14:24:33,723 [main] INFO ebanking - validation started....
+2018-12-19 14:24:33,743 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 17:59:41,673 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 17:59:41,744 [main] INFO ebanking - ===login is successful===
+2018-12-19 17:59:41,772 [main] INFO ebanking - ===exiting the application===
+2018-12-19 17:59:56,439 [main] INFO ebanking - user name provided
+2018-12-19 17:59:56,492 [main] INFO ebanking - password provided
+2018-12-19 17:59:59,710 [main] WARN ebanking - Login failed
+2018-12-19 18:00:00,519 [main] INFO ebanking - user name provided
+2018-12-19 18:00:00,649 [main] INFO ebanking - password provided
+2018-12-19 18:00:04,542 [main] INFO ebanking - Login passed
+2018-12-19 18:00:08,599 [main] INFO ebanking - user name provided
+2018-12-19 18:00:08,651 [main] INFO ebanking - password provided
+2018-12-19 18:00:11,769 [main] WARN ebanking - Login failed
+2018-12-19 18:00:12,387 [main] INFO ebanking - user name provided
+2018-12-19 18:00:12,435 [main] INFO ebanking - password provided
+2018-12-19 18:00:16,112 [main] INFO ebanking - Login passed
+2018-12-19 18:00:20,236 [main] INFO ebanking - user name provided
+2018-12-19 18:00:20,283 [main] INFO ebanking - password provided
+2018-12-19 18:00:23,409 [main] WARN ebanking - Login failed
+2018-12-19 18:00:31,981 [main] INFO ebanking - User name is provided
+2018-12-19 18:00:32,053 [main] INFO ebanking - Passsword is provided
+2018-12-19 18:00:36,533 [main] INFO ebanking - providing customer details....
+2018-12-19 18:00:50,066 [main] INFO ebanking - validation started....
+2018-12-19 18:00:50,086 [main] INFO ebanking - addNewCustomer() test case passed....
+2018-12-19 18:40:07,313 [main] INFO ebanking - ===login btn clicked===
+2018-12-19 18:40:07,326 [main] INFO ebanking - ===login is successful===
+2018-12-19 18:40:07,337 [main] INFO ebanking - ===exiting the application===
+2018-12-19 18:40:14,309 [main] INFO ebanking - user name provided
+2018-12-19 18:40:14,363 [main] INFO ebanking - password provided
+2018-12-19 18:40:17,506 [main] WARN ebanking - Login failed
+2018-12-19 18:40:18,093 [main] INFO ebanking - user name provided
+2018-12-19 18:40:18,144 [main] INFO ebanking - password provided
+2018-12-19 18:40:21,706 [main] INFO ebanking - Login passed
+2018-12-19 18:40:25,519 [main] INFO ebanking - user name provided
+2018-12-19 18:40:25,571 [main] INFO ebanking - password provided
+2018-12-19 18:40:28,704 [main] WARN ebanking - Login failed
+2018-12-19 18:40:29,183 [main] INFO ebanking - user name provided
+2018-12-19 18:40:29,229 [main] INFO ebanking - password provided
+2018-12-19 18:40:32,701 [main] INFO ebanking - Login passed
+2018-12-19 18:40:36,604 [main] INFO ebanking - user name provided
+2018-12-19 18:40:36,656 [main] INFO ebanking - password provided
+2018-12-19 18:40:39,797 [main] WARN ebanking - Login failed
+2018-12-19 18:40:45,893 [main] INFO ebanking - User name is provided
+2018-12-19 18:40:45,949 [main] INFO ebanking - Passsword is provided
+2018-12-19 18:40:50,312 [main] INFO ebanking - providing customer details....
+2018-12-19 18:41:03,679 [main] INFO ebanking - validation started....
+2018-12-19 18:41:03,693 [main] INFO ebanking - addNewCustomer() test case passed....
