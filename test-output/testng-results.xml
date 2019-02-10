@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25228" started-at="2018-12-19T17:52:55Z" finished-at="2018-12-19T17:53:20Z">
+  <suite name="Suite" duration-ms="25715" started-at="2019-02-05T22:26:39Z" finished-at="2019-02-05T22:27:05Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="25228" started-at="2018-12-19T17:52:55Z" finished-at="2018-12-19T17:53:20Z">
+    <test name="Test" duration-ms="25715" started-at="2019-02-05T22:26:39Z" finished-at="2019-02-05T22:27:05Z">
       <class name="com.inetbanking.testCases.TC_AddCustomerTest_003">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@1ce92674]" name="setup" is-config="true" duration-ms="6405" started-at="2018-12-19T17:52:55Z" finished-at="2018-12-19T17:53:02Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@1ce92674]" name="setup" is-config="true" duration-ms="6927" started-at="2019-02-05T22:26:39Z" finished-at="2019-02-05T22:26:46Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@1ce92674]" name="addNewCustomer" duration-ms="17932" started-at="2018-12-19T17:53:02Z" finished-at="2018-12-19T17:53:19Z">
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@1ce92674]" name="addNewCustomer" duration-ms="17937" started-at="2019-02-05T22:26:46Z" finished-at="2019-02-05T22:27:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@1ce92674]" name="tearDown" is-config="true" duration-ms="729" started-at="2018-12-19T17:53:19Z" finished-at="2018-12-19T17:53:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@1ce92674]" name="tearDown" is-config="true" duration-ms="661" started-at="2019-02-05T22:27:04Z" finished-at="2019-02-05T22:27:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

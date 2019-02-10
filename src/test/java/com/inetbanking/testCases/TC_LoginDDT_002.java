@@ -3,7 +3,9 @@ package com.inetbanking.testCases;
 import java.io.IOException;
 
 import org.openqa.selenium.NoAlertPresentException;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -23,7 +25,7 @@ public class TC_LoginDDT_002 extends BaseClass{
 	
 	
 	@Test(dataProvider="LoginData")
-	public void LoginDDT(String user, String pwd) throws InterruptedException {
+	public void LoginDDT(String user, String pwd) throws InterruptedException, IOException {
 		
 		LoginPage lp=new LoginPage(driver);
 		
@@ -43,11 +45,11 @@ public class TC_LoginDDT_002 extends BaseClass{
 		if(isAlertPresent()==true)
 
 		{
-
+			//CaptureScreen(driver, "LoginDDT"); not working properly - investigate
 			log.warn("Login failed");
-
+			
 			driver.switchTo().alert().accept();//close alert
-
+			
 			driver.switchTo().defaultContent();
 			Assert.assertTrue(false);
 			
@@ -57,7 +59,6 @@ public class TC_LoginDDT_002 extends BaseClass{
 		else
 
 		{
-
 
 			log.info("Login passed");
 
@@ -101,5 +102,9 @@ public class TC_LoginDDT_002 extends BaseClass{
 
 	}
 	
-	
+	@AfterClass
+	public void tearDownTest() {
+		log.info("===exiting the application===");	
+		tearDown();
+	}
 }

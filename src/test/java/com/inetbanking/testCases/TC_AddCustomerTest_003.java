@@ -29,6 +29,8 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 		lp.clickLogin();
 
 		Thread.sleep(3000);
+		
+		log.info("successfully logged in");
 
 		AddCustomerPage addcust=new AddCustomerPage(driver);
 

@@ -11,7 +11,8 @@
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="LoginDDT" invocation-numbers="0 2 4"/>
+          <include name="tearDownTest"/>
+          <include name="LoginDDT" invocation-numbers="1 3"/>
         </methods>
       </class> <!-- com.inetbanking.testCases.TC_LoginDDT_002 -->
     </classes>

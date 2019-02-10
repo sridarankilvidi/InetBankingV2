@@ -9,7 +9,7 @@ import java.util.Properties;
 public class ReadConfig {
 	
 	Properties prop;
-	
+	// Constructor
 	public ReadConfig() {
 		File src = new File("./Configuration/config.properties");
 		
@@ -46,5 +46,9 @@ public class ReadConfig {
 		return password;
 	}
 
-
+	public String getBrowser() {
+		
+		String browser = prop.getProperty("br");
+		return browser;
+	}
 }

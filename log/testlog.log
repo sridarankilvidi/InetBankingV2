@@ -349,3 +349,138 @@
 2018-12-19 18:40:50,312 - ebanking -INFO - providing customer details....
 2018-12-19 18:41:03,679 - ebanking -INFO - validation started....
 2018-12-19 18:41:03,693 - ebanking -INFO - addNewCustomer() test case passed....
+2019-02-04 18:05:51,985 - ebanking -INFO - ===login btn clicked===
+2019-02-04 18:05:52,056 - ebanking -INFO - ===login is successful===
+2019-02-04 18:05:52,060 - ebanking -INFO - ===exiting the application===
+2019-02-04 19:33:40,557 - ebanking -INFO - ===login btn clicked===
+2019-02-04 19:33:40,586 - ebanking -INFO - ===login is successful===
+2019-02-04 19:33:40,600 - ebanking -INFO - ===exiting the application===
+2019-02-05 11:56:40,579 - ebanking -INFO - ===login btn clicked===
+2019-02-05 11:56:40,931 - ebanking -INFO - ===login is not successful===
+2019-02-05 11:56:40,947 - ebanking -INFO - ===exiting the application===
+2019-02-05 12:35:07,692 - ebanking -INFO - user name provided
+2019-02-05 12:35:07,757 - ebanking -INFO - password provided
+2019-02-05 12:35:10,915 - ebanking -WARN - Login failed
+2019-02-05 12:35:11,524 - ebanking -INFO - user name provided
+2019-02-05 12:35:11,577 - ebanking -INFO - password provided
+2019-02-05 12:35:14,694 - ebanking -WARN - Login failed
+2019-02-05 12:35:15,229 - ebanking -INFO - user name provided
+2019-02-05 12:35:15,286 - ebanking -INFO - password provided
+2019-02-05 12:35:18,417 - ebanking -WARN - Login failed
+2019-02-05 12:35:19,020 - ebanking -INFO - user name provided
+2019-02-05 12:35:19,071 - ebanking -INFO - password provided
+2019-02-05 12:35:22,183 - ebanking -WARN - Login failed
+2019-02-05 12:35:22,765 - ebanking -INFO - user name provided
+2019-02-05 12:35:22,812 - ebanking -INFO - password provided
+2019-02-05 12:35:25,931 - ebanking -WARN - Login failed
+2019-02-05 12:43:01,153 - ebanking -INFO - user name provided
+2019-02-05 12:43:01,223 - ebanking -INFO - password provided
+2019-02-05 12:43:04,935 - ebanking -INFO - Login passed
+2019-02-05 12:43:08,890 - ebanking -INFO - user name provided
+2019-02-05 12:43:08,940 - ebanking -INFO - password provided
+2019-02-05 12:48:34,036 - ebanking -INFO - user name provided
+2019-02-05 12:48:34,102 - ebanking -INFO - password provided
+2019-02-05 12:48:38,346 - ebanking -INFO - Login passed
+2019-02-05 12:48:43,000 - ebanking -INFO - user name provided
+2019-02-05 12:48:43,053 - ebanking -INFO - password provided
+2019-02-05 12:52:48,724 - ebanking -INFO - user name provided
+2019-02-05 12:52:48,786 - ebanking -INFO - password provided
+2019-02-05 12:52:52,681 - ebanking -INFO - Login passed
+2019-02-05 12:52:56,784 - ebanking -INFO - user name provided
+2019-02-05 12:52:56,835 - ebanking -INFO - password provided
+2019-02-05 13:12:04,656 - ebanking -INFO - user name provided
+2019-02-05 13:12:04,721 - ebanking -INFO - password provided
+2019-02-05 13:12:08,822 - ebanking -INFO - Login passed
+2019-02-05 13:12:12,782 - ebanking -INFO - user name provided
+2019-02-05 13:12:12,835 - ebanking -INFO - password provided
+2019-02-05 13:12:15,953 - ebanking -WARN - Login failed
+2019-02-05 13:12:16,511 - ebanking -INFO - user name provided
+2019-02-05 13:12:16,560 - ebanking -INFO - password provided
+2019-02-05 13:12:20,256 - ebanking -INFO - Login passed
+2019-02-05 13:12:24,358 - ebanking -INFO - user name provided
+2019-02-05 13:12:24,408 - ebanking -INFO - password provided
+2019-02-05 13:12:27,535 - ebanking -WARN - Login failed
+2019-02-05 13:12:28,087 - ebanking -INFO - user name provided
+2019-02-05 13:12:28,136 - ebanking -INFO - password provided
+2019-02-05 13:12:31,643 - ebanking -INFO - Login passed
+2019-02-05 13:12:35,386 - ebanking -INFO - ===exiting the application===
+2019-02-05 13:17:45,518 - ebanking -INFO - user name provided
+2019-02-05 13:17:45,578 - ebanking -INFO - password provided
+2019-02-05 13:17:49,515 - ebanking -INFO - Login passed
+2019-02-05 13:17:53,497 - ebanking -INFO - user name provided
+2019-02-05 13:17:53,568 - ebanking -INFO - password provided
+2019-02-05 13:17:56,687 - ebanking -WARN - Login failed
+2019-02-05 13:17:57,217 - ebanking -INFO - user name provided
+2019-02-05 13:17:57,265 - ebanking -INFO - password provided
+2019-02-05 13:18:00,994 - ebanking -INFO - Login passed
+2019-02-05 13:18:05,080 - ebanking -INFO - user name provided
+2019-02-05 13:18:05,130 - ebanking -INFO - password provided
+2019-02-05 13:18:08,259 - ebanking -WARN - Login failed
+2019-02-05 13:18:08,852 - ebanking -INFO - user name provided
+2019-02-05 13:18:08,900 - ebanking -INFO - password provided
+2019-02-05 13:18:12,680 - ebanking -INFO - Login passed
+2019-02-05 13:18:16,595 - ebanking -INFO - ===exiting the application===
+2019-02-05 13:24:10,841 - ebanking -INFO - user name provided
+2019-02-05 13:24:10,908 - ebanking -INFO - password provided
+2019-02-05 13:24:14,721 - ebanking -INFO - Login passed
+2019-02-05 13:24:18,736 - ebanking -INFO - user name provided
+2019-02-05 13:24:18,787 - ebanking -INFO - password provided
+2019-02-05 13:24:21,939 - ebanking -WARN - Login failed
+2019-02-05 13:24:21,990 - ebanking -INFO - ===exiting the application===
+2019-02-05 13:27:26,554 - ebanking -INFO - user name provided
+2019-02-05 13:27:26,614 - ebanking -INFO - password provided
+2019-02-05 13:27:30,365 - ebanking -INFO - Login passed
+2019-02-05 13:27:34,373 - ebanking -INFO - user name provided
+2019-02-05 13:27:34,425 - ebanking -INFO - password provided
+2019-02-05 13:27:37,596 - ebanking -WARN - Login failed
+2019-02-05 13:27:38,168 - ebanking -INFO - user name provided
+2019-02-05 13:27:38,216 - ebanking -INFO - password provided
+2019-02-05 13:27:41,967 - ebanking -INFO - Login passed
+2019-02-05 13:27:46,021 - ebanking -INFO - user name provided
+2019-02-05 13:27:46,072 - ebanking -INFO - password provided
+2019-02-05 13:27:49,198 - ebanking -WARN - Login failed
+2019-02-05 13:27:49,798 - ebanking -INFO - user name provided
+2019-02-05 13:27:49,846 - ebanking -INFO - password provided
+2019-02-05 13:27:53,376 - ebanking -INFO - Login passed
+2019-02-05 13:27:57,077 - ebanking -INFO - ===exiting the application===
+2019-02-05 17:26:47,019 - ebanking -INFO - User name is provided
+2019-02-05 17:26:47,083 - ebanking -INFO - Passsword is provided
+2019-02-05 17:26:51,324 - ebanking -INFO - providing customer details....
+2019-02-05 17:27:04,835 - ebanking -INFO - validation started....
+2019-02-05 17:27:04,845 - ebanking -INFO - addNewCustomer() test case passed....
+2019-02-05 18:14:32,175 - ebanking -INFO - ===login btn clicked===
+2019-02-05 18:14:32,201 - ebanking -INFO - ===login is successful===
+2019-02-05 18:14:32,215 - ebanking -INFO - ===exiting the application===
+2019-02-05 18:14:37,984 - ebanking -INFO - User name is provided
+2019-02-05 18:14:38,050 - ebanking -INFO - Passsword is provided
+2019-02-05 18:14:41,729 - ebanking -INFO - successfully logged in
+2019-02-05 18:14:42,228 - ebanking -INFO - providing customer details....
+2019-02-05 18:14:55,729 - ebanking -INFO - validation started....
+2019-02-05 18:14:55,732 - ebanking -INFO - addNewCustomer() test case passed....
+2019-02-05 18:50:03,448 - ebanking -INFO - ===login btn clicked===
+2019-02-05 18:50:03,476 - ebanking -INFO - ===login is successful===
+2019-02-05 18:50:03,488 - ebanking -INFO - ===exiting the application===
+2019-02-05 18:50:09,446 - ebanking -INFO - User name is provided
+2019-02-05 18:50:09,526 - ebanking -INFO - Passsword is provided
+2019-02-05 18:50:13,095 - ebanking -INFO - successfully logged in
+2019-02-05 18:50:13,625 - ebanking -INFO - providing customer details....
+2019-02-05 18:50:27,146 - ebanking -INFO - validation started....
+2019-02-05 18:50:27,156 - ebanking -INFO - addNewCustomer() test case passed....
+2019-02-05 20:10:11,865 - ebanking -INFO - ===login btn clicked===
+2019-02-05 20:10:11,900 - ebanking -INFO - ===login is successful===
+2019-02-05 20:10:11,991 - ebanking -INFO - ===exiting the application===
+2019-02-05 20:10:17,861 - ebanking -INFO - User name is provided
+2019-02-05 20:10:17,917 - ebanking -INFO - Passsword is provided
+2019-02-05 20:10:21,695 - ebanking -INFO - successfully logged in
+2019-02-05 20:10:22,510 - ebanking -INFO - providing customer details....
+2019-02-05 20:10:36,365 - ebanking -INFO - validation started....
+2019-02-05 20:10:36,375 - ebanking -INFO - addNewCustomer() test case passed....
+2019-02-05 20:14:41,239 - ebanking -INFO - ===login btn clicked===
+2019-02-05 20:14:41,255 - ebanking -INFO - ===login is successful===
+2019-02-05 20:14:41,266 - ebanking -INFO - ===exiting the application===
+2019-02-05 20:14:46,945 - ebanking -INFO - User name is provided
+2019-02-05 20:14:47,001 - ebanking -INFO - Passsword is provided
+2019-02-05 20:14:50,699 - ebanking -INFO - successfully logged in
+2019-02-05 20:14:51,494 - ebanking -INFO - providing customer details....
+2019-02-05 20:15:04,905 - ebanking -INFO - validation started....
+2019-02-05 20:15:04,925 - ebanking -INFO - addNewCustomer() test case passed....

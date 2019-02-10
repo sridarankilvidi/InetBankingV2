@@ -30,6 +30,7 @@ public class BaseClass {
 	public String url = readconfig.getApplicationURL();
 	public String uname = readconfig.getUserName();
 	public String pwd = readconfig.getPassword();
+	public String br = readconfig.getBrowser();
 	public static Logger log;
 	
 	
